@@ -1,0 +1,5 @@
+For this problem, I ran out of time.
+By the end I had some code that was starting to work (with some errors), but I did not complete it and forgot to send myself the code to finish it up.
+Either way, the method I had gone with was needlessly complicated and if I did post a solution for this problem I likely wouldn't have used my original code as a base.
+
+~ Luma
